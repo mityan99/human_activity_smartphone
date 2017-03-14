@@ -1,4 +1,3 @@
-=============================================================================================
 CourseEra - Getting and Cleaning Data Course
 =============================================================================================
 Human Activity Recognition Using Smartphones Dataset
@@ -18,10 +17,9 @@ The following rules were applied during data preparation and cleaning:
 The repo includes the following
 =============================================================================================
 - 'README.txt'
-- 'CodeBook.md' 
-- 'run_analysis.R'
-- 'runXY.mean.std.group.csv'
-- 'feature.txt'
+- 'CodeBook.md': documentation of the variables, data, and step-by-step transformations performed on the data
+- 'run_analysis.R': R script used to perform the analysis
+- 'runXY.mean.std.group.csv': output file which contains the summarized view of the average measurements by subject and activity
 
 Data Set Information:
 =============================================================================================
