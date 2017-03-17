@@ -9,7 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Data Transformation in R
 ===================================================
 run_analysis.R - $ script that performed the following steps to the original datset
-runXY.mean.std.group.csv - output file
+runXY.mean.std.group.txt - output file
 
 Step 1) Data Gathering and Cleaning
 - Each dataset was downloaded and assigned to named variables. For example, trainX, trainY, testX, testY, and etc
