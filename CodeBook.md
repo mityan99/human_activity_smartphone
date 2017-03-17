@@ -8,7 +8,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Data Transformation in R
 ===================================================
-run_analysis.R
+run_analysis.R - $ script that performed the following steps to the original datset
 
 Step 1) Data Gathering and Cleaning
 - Each dataset was downloaded and assigned to named variables. For example, trainX, trainY, testX, testY, and etc
@@ -21,4 +21,4 @@ Step 1) Data Gathering and Cleaning
 Step 2) Data Transformation
 - Extracted features with names that contain either the mean or standard deviation 
 - Created a subset of data with subject, activity, and the feature names derived from the previous step
-- Produced a summary view of each subject and activity with averages of the selected features
+- Produced a summary view of averages of the selected features for each subject and activity 
